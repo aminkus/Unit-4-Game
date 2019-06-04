@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/pexels-photo-1308624.jpeg");
+}
+
+#black {
+    color: black;
+    font-weight: 900;
+}
+
+h2 {
+    color: white;
+
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: black;
+}

@@ -2,6 +2,7 @@ $(document).ready(function () {
 
     //Generate random number
     var getRandomNumber = Math.floor(Math.random() * (120 - 19 + 1)) + 19;
+    
    
 
     //Display randomized number to HTML
